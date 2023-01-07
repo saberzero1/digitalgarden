@@ -16,6 +16,9 @@ Zettelkasten in Obsidian is based on four folders.
 - Templates
 	- For containing templates.
 Only complicate this structure if needed over time.
+
+
+
 ---
 # References
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E6ySG7xYgjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
