@@ -4,4 +4,4 @@
 
 Welcome to my [[3_Resources/Wiki/Digital Garden\|Digital Garden]].
 
-Hello World
+Hello World.
