@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/index/","tags":"gardenEntry"}
 ---
 
-Welcome to my [[3_Resources/Wiki/Digital Garden\|Digital Garden]].
+Welcome to my [[Digital Garden\|Digital Garden]].
 
-Hello World.
+Check my [[Bucket\|Bucket]] over here.
