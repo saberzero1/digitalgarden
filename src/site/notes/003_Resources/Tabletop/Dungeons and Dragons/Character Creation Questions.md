@@ -22,4 +22,4 @@ Questions to ask to make a more interesting character:
 
 ---
 # References
-https://www.thegamer.com/dungeons-dragons-dnd-questions-to-ask-creating-characters/
+[Source](https://www.thegamer.com/dungeons-dragons-dnd-questions-to-ask-creating-characters/)
