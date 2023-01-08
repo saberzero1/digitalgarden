@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Involving Player Backstory into the Game","permalink":"/Involving Player Backstory into the Game/"}
+{"dg-publish":true,"dg-permalink":"involving-player-backstory-into-the-game","permalink":"/involving-player-backstory-into-the-game/"}
 ---
 
 timestamp: 202301071926
