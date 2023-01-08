@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Character Creation Questions","permalink":"/Character Creation Questions/"}
+{"dg-publish":true,"dg-permalink":"character-creation-questions","permalink":"/character-creation-questions/"}
 ---
 
 timestamp: 202301071926
