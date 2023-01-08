@@ -25,4 +25,4 @@ Ways of involving the backstory of player characters into the narrative.
 
 ---
 # References
-https://www.thegamer.com/dungeons-dragons-include-backstory-players-characters-engage-roleplay-tips-lore-campaign-dnd/
+[Source](https://www.thegamer.com/dungeons-dragons-include-backstory-players-characters-engage-roleplay-tips-lore-campaign-dnd/)
