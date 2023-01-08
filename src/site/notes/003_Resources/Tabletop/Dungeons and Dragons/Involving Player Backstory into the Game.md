@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-permalink":"involving-player-backstory-into-the-game","permalink":"/involving-player-backstory-into-the-game/"}
 ---
 
-timestamp: 202301071926
-status: #idea
-tags: [[Dungeons and Dragons\|Dungeons and Dragons]]
+timestamp:: 202301071926
+status:: #idea
+tags:: [[003_Resources/Tabletop/Dungeons and Dragons/Dungeons and Dragons\|Dungeons and Dragons]]
 # Involving Player Backstory into the Game
 Ways of involving the backstory of player characters into the narrative.
 - Make someone they know involved in the story
