@@ -2,9 +2,9 @@
 {"dg-publish":true,"dg-permalink":"character-creation-questions","permalink":"/character-creation-questions/"}
 ---
 
-timestamp: 202301071926
-status: #idea
-tags: [[Dungeons and Dragons\|Dungeons and Dragons]]
+timestamp:: 202301071926
+status:: #idea
+tags:: [[003_Resources/Tabletop/Dungeons and Dragons/Dungeons and Dragons\|Dungeons and Dragons]]
 # Character Creation Questions
 Questions to ask to make a more interesting character:
 - Who are you parents?
